@@ -1,0 +1,6 @@
+========= INFO DE PC ========
+SISTEMA OPERATIVO : Windows 10.0.19045
+ARQUITECTURA : AMD64
+PROCESADOR : Intel64 Family 6 Model 165 Stepping 3, GenuineIntel
+HOSTNAME: DESKTOP-QA2T303
+IP : 192.168.56.1
